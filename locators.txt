@@ -1,0 +1,2 @@
+CSS locator: ".home-top-section__inner .button"
+XPATH locator: "//div[@class='home-top-section__inner']//div[@class='button']"
