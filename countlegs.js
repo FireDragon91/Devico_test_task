@@ -12,4 +12,4 @@ function countLegs(callback)
   request.send();
 }
 //  Call this function in this way:
-//  countLegs(function(result) {Output result here (e.g. console.log(result.count_legs))});
+//  countLegs(function(result) {Output result here (e.g. console.log(result.count_legs);)});
